@@ -1,0 +1,23 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: var
+availableValues:
+  - green
+  - blue
+  - red
+conditions:
+  - property:
+      name: channel
+      operator: in-array
+      operand:
+        - a
+        - b
+    value:
+      - percentage: 33
+        option: green
+      - percentage: 33
+        option: blue
+      - percentage: 34
+        option: red
+value: blue
