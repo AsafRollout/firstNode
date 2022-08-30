@@ -7,7 +7,7 @@ platforms:
       - dependency:
           flag: int1
           value: '1'
-        value: false
+        value: true
     value:
       - percentage: 60
         option: true
