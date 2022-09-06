@@ -3,6 +3,5 @@ type: experiment
 description: fdvfds
 labels:
   - lbl1
-  - lbl3
 flag: zzz
 value: true
