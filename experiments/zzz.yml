@@ -3,5 +3,6 @@ type: experiment
 description: fd
 labels:
   - lbl1
+  - lbl3
 flag: zzz
 value: true
