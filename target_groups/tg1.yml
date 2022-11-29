@@ -1,6 +1,10 @@
 type: target-group
 name: tg1
 conditions:
+  - group:
+      name:
+        - tg2
+      operator: any-groups
   - operator: semver-lt
     property: app_release
     operand: '3'
