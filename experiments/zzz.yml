@@ -4,4 +4,6 @@ description: fdvfds
 labels:
   - lbl1
 flag: zzz
-value: false
+value:
+  - percentage: 50
+    option: true
