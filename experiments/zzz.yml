@@ -4,6 +4,10 @@ description: fdvfds
 labels:
   - lbl1
 flag: zzz
+conditions:
+  - group:
+      name: ttt
+    value: false
 value:
   - percentage: 50
     option: true
