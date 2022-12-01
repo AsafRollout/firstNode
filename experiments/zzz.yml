@@ -3,7 +3,6 @@ type: experiment
 description: fdvfds
 labels:
   - lbl1
-enabled: false
 flag: zzz
 conditions:
   - group:
