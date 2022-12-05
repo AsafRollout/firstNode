@@ -3,4 +3,4 @@ name: ttt
 conditions:
   - operator: semver-lt
     property: app_release
-    operand: '4'
+    operand: '5'
