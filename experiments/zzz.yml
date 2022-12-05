@@ -9,7 +9,7 @@ flag: zzz
 conditions:
   - group:
       name: ttt
-    value: false
+    value: true
 value:
   - percentage: 50
     option: true
