@@ -4,6 +4,7 @@ description: fdvfdsqwe
 labels:
   - lbl1
   - lbl2
+  - lbl3
 flag: zzz
 conditions:
   - group:
