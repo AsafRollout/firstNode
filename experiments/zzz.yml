@@ -8,7 +8,9 @@ labels:
 flag: zzz
 conditions:
   - group:
-      name: ttt
+      name:
+        - ttt
+        - tg2
     value: true
 value:
   - percentage: 50
