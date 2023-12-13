@@ -3,9 +3,10 @@ type: experiment
 enabled: false
 flag: var
 availableValues:
-  - green
   - blue
+  - green
   - red
+  - orange
 conditions:
   - property:
       name: channel
@@ -15,9 +16,11 @@ conditions:
         - b
     value:
       - percentage: 33
-        option: green
-      - percentage: 33
         option: blue
-      - percentage: 34
+      - percentage: 33
+        option: green
+      - percentage: 14
         option: red
+      - percentage: 20
+        option: orange
 value: blue
