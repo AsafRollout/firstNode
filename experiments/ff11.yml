@@ -3,8 +3,8 @@ type: experiment
 enabled: false
 flag: ff11
 availableValues:
-  - xcvb
-  - asdf
+  - 43bvfvbfsdg
+  - asdfbbvcxb
 conditions:
   - dependency:
       flag: int1
