@@ -5,3 +5,9 @@ flag: ff11
 availableValues:
   - xcvb
   - asdf
+conditions:
+  - dependency:
+      flag: int1
+      value: '1'
+    value: xcvb
+value: asdf
