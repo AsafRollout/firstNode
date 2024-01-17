@@ -10,5 +10,7 @@ conditions:
       name:
         - ttt
         - tg2
-    value: true
-value: true
+    value:
+      - percentage: 50
+        option: true
+value: false
