@@ -13,4 +13,10 @@ conditions:
     value:
       - percentage: 50
         option: true
-value: false
+value:
+  - from: 2024-02-21T04:30:13.001Z
+    percentage: 0
+    option: true
+  - from: 2024-02-27T22:00:00.000Z
+    percentage: 100
+    option: true
